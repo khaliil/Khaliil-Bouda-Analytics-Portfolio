@@ -1,2 +1,2 @@
-**About Me**
+**About Me** <br>
 Hello! I'm Khaliil Bouda, a data enthusiast from Burkina Faso, West Africa. Seeing the urgent need for data collection and analysis in my country inspired me to pursue a career in analytics. I am passionate about using data-driven insights to address critical issues in developing regions and to support business growth. With my skills in data analysis, I aim to help organizations identify opportunities, optimize operations, and make informed decisions that drive positive change. As I build my career, I’m excited to apply these skills in impactful ways to benefit both businesses and communities.
