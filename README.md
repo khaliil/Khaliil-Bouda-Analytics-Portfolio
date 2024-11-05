@@ -8,3 +8,6 @@ Hello! I'm Khaliil Bouda, a data enthusiast from Burkina Faso, West Africa. Seei
 🌐 **LinkedIn:** [linkedin.com/in/khaliilb](https://www.linkedin.com/in/khaliilb)  
 👨‍💻 **GitHub:** [github.com/khaliilb](https://github.com/khaliilb)
 
+## **Resume**
+
+📄 [Download My Resume](./Khaliil-Bouda-Resume.pdf)
