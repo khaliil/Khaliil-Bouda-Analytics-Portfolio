@@ -6,7 +6,7 @@ Hello! I'm Khaliil Bouda, a data enthusiast from Burkina Faso, West Africa. Seei
 📧 **Email:** [khaliilbouda@gmail.com](mailto:khaliilbouda@gmail.com)  
 📞 **Phone:** +1 (202) 499-0821  
 🌐 **LinkedIn:** [linkedin.com/in/khaliilb](https://www.linkedin.com/in/khaliilb)  
-👨‍💻 **GitHub:** [github.com/khaliilb](https://github.com/khaliilb)
+👨‍💻 **GitHub:** [github.com/khaliilb](https://github.com/khaliilb)  
 📊 **Tableau Public:** [public.tableau.com/app/profile/khaliil.bouda/vizzes](https://public.tableau.com/app/profile/khaliil.bouda/vizzes)
 
 
